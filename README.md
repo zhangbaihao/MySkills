@@ -4,10 +4,12 @@
 C++
 C++11 C++17 日志 多线程 文件读写 串口 Windows-Api
 
+python
+
 网络
 socket select epoll 三次握手 四次挥手 tcp udp 
 
-协议、配置我呢见
+协议、配置
 json xml 
 
 项目管理和组织的
@@ -30,6 +32,8 @@ mysql redis
 
 算法
 leetcode
+
+
 
 
 
