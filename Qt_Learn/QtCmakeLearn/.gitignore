@@ -1,0 +1,24 @@
+﻿*.o
+*.a
+*.ilk
+*.pdb
+*.obj
+*.tlog
+*.log
+*.ipdb
+*.iobj
+*.exp
+*.ipch
+*.db
+*.idb
+*.log*
+*.pch
+.suo
+# 忽略指定文件夹
+*.vs
+build
+linux_build
+bin\Release\
+bin\Debug\
+
+

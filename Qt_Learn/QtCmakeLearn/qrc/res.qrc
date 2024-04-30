@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/ClockDialButton.png</file>
+        <file>res/MinusSpinBox.png</file>
+        <file>res/PlusSpinBox.png</file>
+        <file>res/ScreenshotButton.png</file>
+        <file>res/StartRecordingButton.png</file>
+        <file>res/StopRecordingButton.png</file>
+        <file>res/TopTitleReturnButton.png</file>
+        <file>res/maximize.png</file>
+        <file>res/maximize-hover.png</file>
+        <file>res/minimize.png</file>
+        <file>res/minimize-hover.png</file>
+        <file>res/switchsize.png</file>
+        <file>res/switchsize-hover.png</file>
+        <file>res/close.png</file>
+        <file>res/close-hover.png</file>
+        <file>res/info.png</file>
+        <file>res/NoCheckButton.png</file>
+        <file>res/YesCheckButton.png</file>
+        <file>res/greenSlidingBar.png</file>
+    </qresource>
+</RCC>

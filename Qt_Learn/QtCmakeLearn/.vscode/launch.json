@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(gdb) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${command:cmake.launchTargetPath}",
+            "args": [],
+            "stopAtEntry": false,
+            //"console": "externalTerminal",
+            "console": "internalConsole",
+            "internalConsoleOptions": "neverOpen",
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "visualizerFile": "c:\\Users\\24242\\AppData\\Roaming\\Code\\User\\workspaceStorage\\149572fb1a4906da7db89f02bbce822c\\tonka3000.qtvsctools\\qt.natvis.xml"
+        }
+    ]
+}
