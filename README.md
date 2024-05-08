@@ -1,38 +1,67 @@
-# MySkills
-主要用于记录总结C++编程开发 多年用到的知识和技能正在学习的知识，方便日后快速使用
+以下是使用Markdown格式化的"MySkills"内容：
 
-C++
-C++11 C++17 日志 多线程 文件读写 串口 Windows-Api
+## MySkills
 
-python
+主要用于记录总结C++编程开发多年用到的知识和技能正在学习的知识，方便日后快速使用。
 
-网络
-socket select epoll 三次握手 四次挥手 tcp udp 
+### C++
 
-协议、配置
-json xml 
+- C++11, C++17
+- 日志
+- 多线程
+- 文件读写
+- 串口
+- Windows API
 
-项目管理和组织的
-cmake git 
+### Python
 
-linux相关配置
-ubuntu docker
+- 网络
+  - Socket
+  - Select
+  - Epoll
+  - 三次握手
+  - 四次挥手
+  - TCP
+  - UDP
 
-客户端开发
-MFC Qt electron
+### 协议、配置
 
-音视频和摄像头
-ffmepg uvc 
+- JSON
+- XML
 
-加速计算
-opencl cuda
+### 项目管理和组织
 
-数据库
-mysql redis
+- CMake
+- Git
 
-算法
-leetcode
+### Linux相关配置
 
+- Ubuntu
+- Docker
 
+### 客户端开发
 
+- MFC
+- Qt
+- Electron
 
+### 音视频和摄像头
+
+- FFmpeg
+- UVC
+
+### 加速计算
+
+- OpenCL
+- CUDA
+
+### 数据库
+
+- MySQL
+- Redis
+
+### 算法
+
+- LeetCode
+
+希望这样的格式化对您有所帮助。如果还有其他问题，请随时提问。
